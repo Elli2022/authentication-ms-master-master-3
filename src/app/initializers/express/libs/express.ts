@@ -25,7 +25,9 @@ export default function createServer(options: ServerOptions) {
     options.app.use(options.json());
     options.app.use(options.urlencoded({ extended: true }));
 
-    options.app.get("/", (req, res) => res.json({ data: "fitta" }));
+    options.app.get("/", (req, res) =>
+      res.json({ data: "jag orkar inte mer" })
+    );
     options.app.post("/", (req, res) => res.json({ body: req.body }));
 
     options.app.listen(port, hostname, () => {
