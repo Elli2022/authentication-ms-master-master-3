@@ -1,0 +1,8 @@
+{"level":"info","message":"[authentication-ms] Bootstraping micro service","service":"authentication-ms","timestamp":"2023-10-17 20:20:55"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"authentication-ms","timestamp":"2023-10-17 20:20:55"}
+{"level":"info","message":"[authentication-ms] Bootstraping micro service","service":"authentication-ms","timestamp":"2023-10-17 20:21:33"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"authentication-ms","timestamp":"2023-10-17 20:21:33"}
+{"level":"info","message":"[authentication-ms] Bootstraping micro service","service":"authentication-ms","timestamp":"2023-10-17 20:21:38"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"authentication-ms","timestamp":"2023-10-17 20:21:38"}
+{"level":"info","message":"[authentication-ms] Bootstraping micro service","service":"authentication-ms","timestamp":"2023-10-17 20:21:46"}
+{"level":"info","message":"[EXPRESS] Server running at http://127.0.0.1:3000","service":"authentication-ms","timestamp":"2023-10-17 20:21:46"}
